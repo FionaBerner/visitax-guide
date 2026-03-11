@@ -1,5 +1,4 @@
-# visitax-guide
-## VISITAX Mexico Guide
+# VISITAX Mexico Guide
 
 The **VISITAX** is a tourist tax required for international visitors leaving the Mexican state of Quintana Roo, including Cancun, Playa del Carmen, Tulum, and the Riviera Maya.
 
